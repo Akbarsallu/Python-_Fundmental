@@ -1,0 +1,77 @@
+understanding the variablesx+2
+y+3
+
+z= x+y
+
+print(Z)
+
+
+Rules for declaring the variables is python :
+
+rule no 1 A variable name should not contain any name space in it 
+
+
+rule no- 2 A variable name should not start with a number **
+
+rule no 3 A variable name should not contain any special characters 
+
+3 most important rule is above one 
+
+Introduction to data types in p
+
+1. Strings --- str
+2. numbers-----ote - integers and floats (decimales)
+3 list-- list
+4 tuple--tuple
+dictionary--dict
+
+
+note -p is case senstive language 
+
+
+classifaction of data types
+
+2 diffrent typres
+
+
+
+mutable data type----which we can edit or alter--- these are fiexibel is nature
+
+immutable data type------ which we cannot edit or alter ------- there are fixed is nature 
+
+
+introduction to string data type 
+
+
+defination : A string of characters declared in Quotes 
+
+Classification : it is classified as an Immutiable data types
+
+how do you declare string =--------3. possible Approaches:
+
+1)single Quotes
+
+2)Double quotes
+
+3)Triple Quotes
+
+
+name 1 'salman' "salman" '"salman'"
+
+# is used for commenting the code... it wont Impact
+
+
+introduction to string method
+
+Type----- it is used to validate the data type which we are using
+
+type (name0
+str 
+
+type (name2)
+str
+
+type (name3)
+str 
+
+  
